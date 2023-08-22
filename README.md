@@ -16,7 +16,7 @@
 
 ## كيفية الاستخدام
 
-1. انتقل إلى [رابط المشروع]([https://www.example.com](https://alshaercode.github.io/E-Commerce-Website-Design-Using/#)).
+1. انتقل إلى [رابط المشروع](https://alshaercode.github.io/E-Commerce-Website-Design-Using/#).
 2. استكشف الملابس المختلفة المعروضة.
 3. انقر على زر "اشتر الآن" للملابس التي ترغب في شرائها.
 
